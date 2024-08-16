@@ -1,12 +1,12 @@
 {
   "categories": ["Chicken", "Mutton", "Fish", "Prawn", "Other"],
   "Chicken": [
-    { "id": 1, "name": "Chicken Briyani", "price": 130, "quantity": 1 },
-    { "id": 2, "name": "Chicken 65 Briyani", "price": 150, "quantity": 1 },
-    { "id": 3, "name": "Chicken Briyani combo", "price": 200, "quantity": 1 },
+    { "id": 1, "name": "Chicken biryani", "price": 130, "quantity": 1 },
+    { "id": 2, "name": "Chicken 65 biryani", "price": 150, "quantity": 1 },
+    { "id": 3, "name": "Chicken biryani combo", "price": 200, "quantity": 1 },
     {
       "id": 4,
-      "name": "Chicken Briyani special combo",
+      "name": "Chicken biryani special combo",
       "price": 250,
       "quantity": 1
     },
@@ -16,24 +16,24 @@
     { "id": 8, "name": "Chicken 65", "price": 200, "quantity": 1 }
   ],
   "Mutton": [
-    { "id": 9, "name": "Mutton Briyani", "price": 130, "quantity": 1 },
-    { "id": 10, "name": "Mutton special Briyani", "price": 150, "quantity": 1 },
-    { "id": 11, "name": "Mutton Briyani combo", "price": 200, "quantity": 1 },
+    { "id": 9, "name": "Mutton biryani", "price": 130, "quantity": 1 },
+    { "id": 10, "name": "Mutton special biryani", "price": 150, "quantity": 1 },
+    { "id": 11, "name": "Mutton biryani combo", "price": 200, "quantity": 1 },
     {
       "id": 12,
-      "name": "Mutton Briyani special combo",
+      "name": "Mutton biryani special combo",
       "price": 250,
       "quantity": 1
     },
     { "id": 13, "name": "Mutton curry", "price": 190, "quantity": 1 }
   ],
   "Fish": [
-    { "id": 14, "name": "Fish Briyani", "price": 130, "quantity": 1 },
-    { "id": 15, "name": "Fish special Briyani", "price": 150, "quantity": 1 },
-    { "id": 16, "name": "Fish Briyani combo", "price": 200, "quantity": 1 },
+    { "id": 14, "name": "Fish biryani", "price": 130, "quantity": 1 },
+    { "id": 15, "name": "Fish special biryani", "price": 150, "quantity": 1 },
+    { "id": 16, "name": "Fish biryani combo", "price": 200, "quantity": 1 },
     {
       "id": 17,
-      "name": "Fish Briyani special combo",
+      "name": "Fish biryani special combo",
       "price": 250,
       "quantity": 1
     },
@@ -41,12 +41,12 @@
     { "id": 19, "name": "Fish fry", "price": 190, "quantity": 1 }
   ],
   "Prawn": [
-    { "id": 20, "name": "Prawn Briyani", "price": 130, "quantity": 1 },
+    { "id": 20, "name": "Prawn biryani", "price": 130, "quantity": 1 },
     { "id": 21, "name": "Prawn fried rice", "price": 150, "quantity": 1 },
-    { "id": 22, "name": "Prawn Briyani combo", "price": 200, "quantity": 1 },
+    { "id": 22, "name": "Prawn biryani combo", "price": 200, "quantity": 1 },
     {
       "id": 23,
-      "name": "Prawn Briyani special combo",
+      "name": "Prawn biryani special combo",
       "price": 250,
       "quantity": 1
     },
