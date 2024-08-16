@@ -1,0 +1,69 @@
+{
+  "categories": ["Chicken", "Mutton", "Fish", "Prawn", "Other"],
+  "Chicken": [
+    { "id": 1, "name": "Chicken Briyani", "price": 130, "quantity": 1 },
+    { "id": 2, "name": "Chicken 65 Briyani", "price": 150, "quantity": 1 },
+    { "id": 3, "name": "Chicken Briyani combo", "price": 200, "quantity": 1 },
+    {
+      "id": 4,
+      "name": "Chicken Briyani special combo",
+      "price": 250,
+      "quantity": 1
+    },
+    { "id": 5, "name": "Chicken rice", "price": 110, "quantity": 1 },
+    { "id": 6, "name": "Chicken curry", "price": 190, "quantity": 1 },
+    { "id": 7, "name": "Chicken Lollipop", "price": 160, "quantity": 1 },
+    { "id": 8, "name": "Chicken 65", "price": 200, "quantity": 1 }
+  ],
+  "Mutton": [
+    { "id": 9, "name": "Mutton Briyani", "price": 130, "quantity": 1 },
+    { "id": 10, "name": "Mutton special Briyani", "price": 150, "quantity": 1 },
+    { "id": 11, "name": "Mutton Briyani combo", "price": 200, "quantity": 1 },
+    {
+      "id": 12,
+      "name": "Mutton Briyani special combo",
+      "price": 250,
+      "quantity": 1
+    },
+    { "id": 13, "name": "Mutton curry", "price": 190, "quantity": 1 }
+  ],
+  "Fish": [
+    { "id": 14, "name": "Fish Briyani", "price": 130, "quantity": 1 },
+    { "id": 15, "name": "Fish special Briyani", "price": 150, "quantity": 1 },
+    { "id": 16, "name": "Fish Briyani combo", "price": 200, "quantity": 1 },
+    {
+      "id": 17,
+      "name": "Fish Briyani special combo",
+      "price": 250,
+      "quantity": 1
+    },
+    { "id": 18, "name": "Fish curry", "price": 190, "quantity": 1 },
+    { "id": 19, "name": "Fish fry", "price": 190, "quantity": 1 }
+  ],
+  "Prawn": [
+    { "id": 20, "name": "Prawn Briyani", "price": 130, "quantity": 1 },
+    { "id": 21, "name": "Prawn fried rice", "price": 150, "quantity": 1 },
+    { "id": 22, "name": "Prawn Briyani combo", "price": 200, "quantity": 1 },
+    {
+      "id": 23,
+      "name": "Prawn Briyani special combo",
+      "price": 250,
+      "quantity": 1
+    },
+    { "id": 24, "name": "Prawn curry", "price": 190, "quantity": 1 },
+    { "id": 25, "name": "prawn fry", "price": 190, "quantity": 1 }
+  ],
+  "Other": [
+    { "id": 26, "name": "Shawarma", "price": 130, "quantity": 1 },
+    { "id": 27, "name": "Dessert", "price": 150, "quantity": 1 },
+    { "id": 28, "name": "Bread Alva", "price": 200, "quantity": 1 },
+    {
+      "id": 29,
+      "name": "Tadoori",
+      "price": 250,
+      "quantity": 1
+    },
+    { "id": 30, "name": "ice cream", "price": 190, "quantity": 1 },
+    { "id": 31, "name": "water bottle", "price": 190, "quantity": 1 }
+  ]
+}
