@@ -89,9 +89,8 @@ export const Cart = () => {
           </div>
         </aside>
       )}
-
       <Model
-        className={` ml-auto mr-auto mt-20  w-[700px] h-[600px] z-50    ${
+        className={` ml-auto mr-auto mt-2  w-[700px] h-[600px] z-50    ${
           loading ? "bg--white" : "bg-amber-700"
         } `}
         ariaHideApp={false}
